@@ -1,3 +1,12 @@
+📱 Meu App React Native
+
 Projeto desenvolvido utilizando React Native com Expo.
-Utilizei React Native, Expo e Javascript.
-Para rodar: npm install e npm expo start.
+
+🚀 Tecnologias
+React Native
+Expo
+JavaScript
+
+▶️ Como rodar
+npm install
+npx expo start
