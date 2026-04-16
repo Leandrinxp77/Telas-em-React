@@ -3,10 +3,10 @@
 Projeto desenvolvido utilizando React Native com Expo.
 
 🚀 Tecnologias
-React Native
-Expo
+React Native,
+Expo e
 JavaScript
 
 ▶️ Como rodar
-npm install
+npm install e
 npx expo start
